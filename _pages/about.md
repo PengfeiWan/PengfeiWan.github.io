@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Pengfei Wan, Ph.D.// Associate Professor"
+title: "Pengfei Wan, Ph.D."
+title: "Associate Professor"
 author_profile: true
 redirect_from: 
   - /about/
