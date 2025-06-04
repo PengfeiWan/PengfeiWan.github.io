@@ -23,10 +23,15 @@ Publications
 1. Guangyao Pang, Xiaoming Wang*, Liang Wang, Fei Hao, Yaguang Lin, Pengfei Wan, Geyong Min. Efficient Deep Reinforcement Learning-Enabled Recommendations[J]. IEEE Transactions on Network Science and Engineering, 2023, 10(2): 871-886.
 1. Yaguang Lin, Xiaoming Wang*, Liang Wang, Pengfei Wan. Dynamics Modeling and Optimal Controlfor Multi-information Diffusion in Social Internet of Things[J]. Digital Communications and Networks, 2024,  10 (3), 655-665.
 
+Research Projects
+======
+1. National Natural Science Foundation Youth Project, Research on Generative Public Opinion Risk Intelligent Analysis and Collaborative Governance Method Based on Multimodal Fusion, 2025-01-01 to 2027-12-31.
+1. Xi'an Association for Science and Technology Young Talent Support Program Project (Class A), Deep Fake Social Prevention and Control System: Research on Multimodal Feature Enhancement and Transmission Chain Coordinated Blocking Mechanism, 2025-07-01 to 2027-6-30.
+
 Awards 
 ======
-1.First Prize of Shaanxi Higher Education Science and Technology Award, Shaanxi Provincial Department of Education, 2023.04.
-1.First Prize of Science and Technology Award for Natural Sciences, Shaanxi Computer Society, 2022.12.
+1. First Prize of Shaanxi Higher Education Science and Technology Award, Shaanxi Provincial Department of Education, 2023.04.
+1. First Prize of Science and Technology Award for Natural Sciences, Shaanxi Computer Society, 2022.12.
 
 Contact
 ======
