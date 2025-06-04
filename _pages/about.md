@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/6ba7b28c-9369-47b8-984b-b285973b43df)![image](https://github.com/user-attachments/assets/e5f07373-fdf4-49ee-8e74-c03fd0114f53)![image](https://github.com/user-attachments/assets/740ba057-1770-4a6d-a75f-a7eac87cc462)![image](https://github.com/user-attachments/assets/fee50f45-e024-43da-b6d6-a22dae8cd37f)![image](https://github.com/user-attachments/assets/8c1f62bd-c1f2-4bc1-9e7b-e216088f479e)---
 permalink: /
 title: "Pengfei Wan, Ph.D."
 author_profile: true
@@ -14,41 +14,22 @@ Pengfei Wan received the Ph.D. in Computer Software and Theory from Shaanxi Norm
 
 His research focuses on social networks and social computing, artificial intelligence, and multimodal information fusion, where he currently leads the National Natural Science Foundation of China (NSFC) Young Scientists Fund and Xi'an Young Talent Lift Support Program (Category A), while contributing to three national-level and Shaanxi Provincial Key R&D projects. With over 10 peer-reviewed publications in prominent journals—including IEEE Transactions on Knowledge and Data Engineering (CCF-A, 2021), Expert Systems with Applications (2023), IEEE Transactions on Network Science and Engineering (2023), and IEEE Transactions on Learning Technologies (2021)—he has established a solid research foundation. His scholarly contributions have been recognized with the First Prize of Shaanxi Higher Education Science and Technology Award (2023) and the First Prize in Natural Sciences from Shaanxi Computer Society (2022).
 
-A data-driven personal website
+Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+1. Pengfei Wan, Xiaoming Wang*, Guangyao Pang, Liang Wang, Geyong Min. A novel rumor detection with multi-objective loss functions in online social networks[J]. Expert Systems with Applications, 2023, 213: 119239. 
+1. Pengfei Wan, Xiaoming Wang*, Xinyan Wang, Liang Wang, Yaguang Lin, Wei Zhao. Intervening Coupling Diffusion of Competitive Information in Online Social Networks[J]. IEEE Transactions on Knowledge and Data Engineering, 2021, 33(6): 2548-2559.
+1. Pengfei Wan, Xiaoming Wang*, Geyong Min, Liang Wang, Yaguang Lin, Wangyang Yu, Xiaojun Wu. Optimal Control for Positive and Negative Information Diffusion Based on Game Theory in Online Social Networks[J]. IEEE Transactions on Network Science and Engineering, 2023, 10(1): 426-440.
+1. Pengfei Wan, Xiaoming Wang*, Yaguang Lin, Guangyao Pang. A Knowledge Diffusion Model in Autonomous Learning Under Multiple Networks for Personalized Educational Resource Allocation[J]. IEEE Transactions on Learning Technologies, 2021, 14(4): 430-444.
+1. Guangyao Pang, Xiaoming Wang*, Liang Wang, Fei Hao, Yaguang Lin, Pengfei Wan, Geyong Min. Efficient Deep Reinforcement Learning-Enabled Recommendations[J]. IEEE Transactions on Network Science and Engineering, 2023, 10(2): 871-886.
+1. Yaguang Lin, Xiaoming Wang*, Liang Wang, Pengfei Wan. Dynamics Modeling and Optimal Controlfor Multi-information Diffusion in Social Internet of Things[J]. Digital Communications and Networks, 2024,  10 (3), 655-665.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Awards 
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1.First Prize of Shaanxi Higher Education Science and Technology Award, Shaanxi Provincial Department of Education, 2023.04.
+1.First Prize of Science and Technology Award for Natural Sciences, Shaanxi Computer Society, 2022.12.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Contact
+======
+I am looking for motivated students with solid background in mathematics and programming. If you are interested in doing research with me, please feel free to contact me via email (wanpf@xupt.edu.cn).
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
