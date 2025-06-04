@@ -11,7 +11,9 @@ Associate Professor
 ======
 <div class="text-justify">
 Pengfei Wan received the Ph.D. in Computer Software and Theory from Shaanxi Normal University in June 2023. In October 2023, he was appointed as the associate professor at the School of Computer Science, Xi'an University of Posts and Telecommunications.
+</div>
 
+<div class="text-justify">
 His research focuses on social networks and social computing, artificial intelligence, and multimodal information fusion, where he currently leads the National Natural Science Foundation of China (NSFC) Young Scientists Fund and Xi'an Young Talent Lift Support Program (Category A), while contributing to three national-level and Shaanxi Provincial Key R&D projects. With over 10 peer-reviewed publications in prominent journals—including IEEE Transactions on Knowledge and Data Engineering (CCF-A, 2021), Expert Systems with Applications (2023), IEEE Transactions on Network Science and Engineering (2023), and IEEE Transactions on Learning Technologies (2021)—he has established a solid research foundation. His scholarly contributions have been recognized with the First Prize of Shaanxi Higher Education Science and Technology Award (2023) and the First Prize in Natural Sciences from Shaanxi Computer Society (2022).
 </div>
 
