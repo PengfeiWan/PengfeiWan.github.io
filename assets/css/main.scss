@@ -41,3 +41,36 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+/* ====== 自定义文本两端对齐样式 ====== */
+.text-justify {
+  text-align: justify;
+  text-justify: inter-word;
+  
+  &:lang(zh) {
+    text-justify: inter-ideograph;
+    word-spacing: -0.15em;
+    letter-spacing: -0.01em;
+  }
+  
+  text-align-last: justify;
+  
+  p {
+    margin-bottom: 1.2em;
+    line-height: 1.8;
+  }
+  
+  ul, ol {
+    text-align: left;
+    text-justify: initial;
+  }
+  
+  @media (max-width: 768px) {
+    text-align: left;
+    text-justify: unset;
+    text-align-last: auto;
+    
+    &:lang(zh) {
+      word-spacing: normal;
+    }
+  }
+}
