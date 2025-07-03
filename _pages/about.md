@@ -30,8 +30,8 @@ Research Projects
 
 Awards 
 ======
-1. First Prize of Shaanxi Higher Education Science and Technology Award, Shaanxi Provincial Department of Education, 2023.04.
-1. First Prize of Science and Technology Award for Natural Sciences, Shaanxi Computer Society, 2022.12.
+1. First Prize of Shaanxi Higher Education Science and Technology Award, Education Department of Shaanxi Provincial Government, 2023.04.
+1. First Prize of Science and Technology Award for Natural Sciences, Computer Federation of Shaanxi Province, 2022.12.
 
 Contact
 ======
