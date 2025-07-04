@@ -12,7 +12,7 @@ Associate Professor, Master's Supervisor
 Pengfei Wan received the Ph.D. in Computer Software and Theory from Shaanxi Normal University in June 2023. In October 2023, he was appointed as the associate professor at the School of Computer Science, Xi'an University of Posts and Telecommunications. He obtained the qualification as a master’s supervisor in May 2025.
 
 
-His research focuses on social networks and social computing, artificial intelligence, and multimodal information fusion, where he currently leads the National Natural Science Foundation of China (NSFC) Young Scientists Fund and Xi'an Association for Science and Technology Young Talent Support Program Project (Category A), while contributing to three national-level and Shaanxi Provincial Key R&D projects. With over 10 peer-reviewed publications in prominent journals—including IEEE Transactions on Knowledge and Data Engineering (CCF-A, 2021), Expert Systems with Applications (2023), IEEE Transactions on Network Science and Engineering (2023), and IEEE Transactions on Learning Technologies (2021)—he has established a solid research foundation. His scholarly contributions have been recognized with the First Prize of Shaanxi Higher Education Science and Technology Award (2023) and the First Prize in Natural Sciences from Computer Federation of Shaanxi Province (2022).
+His research focuses on social networks and social computing, artificial intelligence, and multimodal information fusion, where he currently leads the National Natural Science Foundation of China and was selected into Xi'an Association for Science and Technology Youth Talent Support Program (2025). (Category A), while contributing to three national-level and Shaanxi Provincial Key R&D projects. With over 10 peer-reviewed publications in prominent journals—including IEEE Transactions on Knowledge and Data Engineering (CCF-A, 2021), Expert Systems with Applications (2023), IEEE Transactions on Network Science and Engineering (2023), and IEEE Transactions on Learning Technologies (2021)n. His scholarly contributions have been recognized with the First Prize of Shaanxi Higher Education Science and Technology Award (2023) and the First Prize in Natural Sciences from Computer Federation of Shaanxi Province (2022).
 
 Publications
 ======
@@ -25,7 +25,7 @@ Publications
 
 Research Projects
 ======
-1. National Natural Science Foundation Youth Project, Research on Generative Public Opinion Risk Intelligent Analysis and Collaborative Governance Method Based on Multimodal Fusion, 2025-01-01 to 2027-12-31.
+1. National Natural Science Foundation of China, Research on Generative Public Opinion Risk Intelligent Analysis and Collaborative Governance Method Based on Multimodal Fusion, 2025-01-01 to 2027-12-31.
 1. Xi'an Association for Science and Technology Young Talent Support Program Project (Category A), Deep Fake Social Prevention and Control System: Research on Multimodal Feature Enhancement and Transmission Chain Coordinated Blocking Mechanism, 2025-07-01 to 2027-6-30.
 
 Awards 
